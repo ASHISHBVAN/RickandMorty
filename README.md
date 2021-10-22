@@ -34,4 +34,5 @@ some instructions for App:
 6. Both -> will provide the logic for the views.
 7. I have used dio package for accesing the data using url.
 8. Provider is used for state management.
+9. Drive link for the APK : https://drive.google.com/file/d/1mvqP0rKlQ9pBDmzf2anm-YXsP9Gwzswy/view?usp=sharing
 
