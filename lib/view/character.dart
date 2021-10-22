@@ -63,6 +63,7 @@ class _CharacterState extends State<Character> {
                   : IconButton(
                       onPressed: () {
                         name.text = '';
+                         _value.info(charlist, 'Unknown', name.text);
                         setState(() {});
                       },
                       icon: Icon(Icons.cancel)),
